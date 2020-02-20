@@ -21,7 +21,7 @@ function rankXPRequirement(initial, target, leftovers){
 		return requirement;	
 	}
 }
-
+ 
 function XPRankRequirement(required, rankreturn){
 	var testAccumulation = 0; //used to count up until the rank
 	var testGrabber = 0; //used to "grab" the correct value
