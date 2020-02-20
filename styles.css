@@ -1,0 +1,26 @@
+button{
+	width: 250px;
+	height: 80px;
+	margin: 25px;
+	padding: 15px;
+	color: #eee;
+	display: inline-block;
+	border: 1px solid #e6f7ff;
+	background-color: #6cf;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	text-align: center;
+	border-radius: 10px;
+	transition: background-color 0.5s ease;
+	font: 20px arial, sans-serif;
+}
+button:hover{
+	background-color: #39f;
+}
+button:active{
+	background: #eee;
+}
+span{
+	margin-top: 8px;
+}
